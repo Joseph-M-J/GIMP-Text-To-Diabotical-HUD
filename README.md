@@ -3,7 +3,7 @@ A GIMP plugin that converts GIMP text layers to Diabotical HUD elements
 
 This plugin facilitates the creative use of unicode characters to design HUDs.
 
-Example: ![Valorant Style HUD](https://drive.google.com/file/d/1M9DnBqTkpXZYiTofDOZ-u0DXkmEQVTLZ/view?usp=sharing)
+Example: https://drive.google.com/file/d/1M9DnBqTkpXZYiTofDOZ-u0DXkmEQVTLZ/view?usp=sharing
 
 Tutorial: https://youtu.be/416G1A__I9w
 
