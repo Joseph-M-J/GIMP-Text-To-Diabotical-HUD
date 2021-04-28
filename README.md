@@ -5,7 +5,7 @@ This plugin facilitates the creative use of unicode characters to design HUDs.
 
 Example: https://drive.google.com/file/d/1M9DnBqTkpXZYiTofDOZ-u0DXkmEQVTLZ/view?usp=sharing
 
-Tutorial: https://youtu.be/416G1A__I9w
+Tutorial: https://youtu.be/9jA2OqRPz70
 
 - [GIMP Text To Diabotical HUD](#gimp-text-to-diabotical-hud)
   - [How To Install](#how-to-install)
